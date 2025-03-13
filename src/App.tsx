@@ -6,6 +6,7 @@ function App() {
   return (
     <>
       <HomePage />
+      <h1>Titolo dell'app.tsx</h1>
     </>
   )
 }
