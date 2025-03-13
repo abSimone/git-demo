@@ -6,6 +6,7 @@ function App() {
   return (
     <>
       <HomePage />
+      <h1>Hello world</h1>
     </>
   )
 }
