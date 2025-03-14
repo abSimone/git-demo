@@ -7,6 +7,7 @@ function App() {
     <>
       <HomePage />
       <h1>Titolo dell'app.tsx</h1>
+      <p>Paragrafo del DEV 1</p>
     </>
   )
 }
